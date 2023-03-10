@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>John Lloyd Vape Shop</title>
+	<style>
+		.header {
+			background-color: #333;
+			color: #dad610;
+			padding: 20px;
+			text-align: center;
+		}
+		.navigation {
+			background-color: #ddd;
+			padding: 10px;
+			text-align: right;
+		}
+		.content {
+			padding: 20px;
+		}
+		.footer {
+			background-color: #333;
+			color: #0bfa17dc;
+			padding: 20px;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
+	<header class="header">
+		<h1>John Lloyd Vape Shop</h1>
+	</header>
+	<nav class="navigation">
+		<a href="#">Home</a>
+		<a href="#">Products</a>
+		<a href="#">Contact Us</a>
+	</nav>
+	<main class="content">
+		<p>Welcome to John Lloyd Vape Shop! We offer a wide range of vaping products and accessories to suit your needs. Whether you're a beginner or an experienced vaper, we have everything you need to enjoy the perfect vaping experience. Browse our selection today and find the perfect product for you!</p>
+	</main>
+	<footer class="footer">
+		<p>Copyright &copy; 2023 John Lloyd Vape Shop. All rights reserved.</p>
+	</footer>
+</body>
+</html>
